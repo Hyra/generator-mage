@@ -1,7 +1,7 @@
 {
   "name": "generator-mage",
   "description": "Run MongoDB, Angular, Gulp and Express. Both client and API, or just one of the two.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Stef van den Ham",
     "email": "stef@mindthecode.com"
