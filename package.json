@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/Hyra/generator-mage.git"
   },
-  "homepage": "https://github.com/ericclemmons/genesis-skeleton",
+  "homepage": "https://github.com/Hyra/generator-mage",
   "engines": {
     "node": ">=0.10.0"
   },
