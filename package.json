@@ -2,6 +2,11 @@
   "name": "generator-mage",
   "description": "Run MongoDB, Angular, Gulp and Express. Both client and API, or just one of the two.",
   "version": "0.1.0",
+  "author": {
+    "name": "Stef van den Ham",
+    "email": "stef@mindthecode.com"
+  },
+  "homepage": "https://github.com/ericclemmons/genesis-skeleton",
   "engines": {
     "node": ">=0.10.0"
   },
